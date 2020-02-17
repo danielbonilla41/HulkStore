@@ -1,0 +1,10 @@
+com\hulkstore\service\product\rs\ProductRs$1.class
+com\hulkstore\service\product\facade\ProductFacade.class
+com\hulkstore\service\product\entity\Product.class
+com\hulkstore\service\product\ejb\ProductEjb.class
+com\hulkstore\service\product\etl\ProductTransform.class
+com\hulkstore\service\product\config\ApiConfig.class
+com\hulkstore\service\product\rs\ProductRs.class
+com\hulkstore\service\product\dao\ProductDao.class
+com\hulkstore\service\product\entity\Product_.class
+com\hulkstore\service\product\dto\ProductResponse.class

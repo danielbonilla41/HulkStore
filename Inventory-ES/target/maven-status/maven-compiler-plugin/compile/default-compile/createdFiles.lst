@@ -1,0 +1,15 @@
+com\hulkstore\service\inventory\entity\Inventory.class
+com\hulkstore\service\inventory\entity\Inventory_.class
+com\hulkstore\service\inventory\rs\InventoryRs$2.class
+com\hulkstore\service\inventory\entity\Product.class
+com\hulkstore\service\inventory\etl\InventoryTransform.class
+com\hulkstore\service\inventory\dao\InventoryDao.class
+com\hulkstore\service\inventory\rs\InventoryRs$3.class
+com\hulkstore\service\inventory\rs\InventoryRs.class
+com\hulkstore\service\inventory\dto\InventoryRequest.class
+com\hulkstore\service\inventory\facade\InventoryFacade.class
+com\hulkstore\service\inventory\ejb\InventoryEjb.class
+com\hulkstore\service\inventory\entity\Product_.class
+com\hulkstore\service\inventory\dto\InventoryResponse.class
+com\hulkstore\service\inventory\config\ApiConfig.class
+com\hulkstore\service\inventory\rs\InventoryRs$1.class

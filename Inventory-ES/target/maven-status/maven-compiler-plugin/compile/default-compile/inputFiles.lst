@@ -1,0 +1,10 @@
+D:\HulkStore\HulkStore\Inventory-ES\src\main\java\com\hulkstore\service\inventory\config\ApiConfig.java
+D:\HulkStore\HulkStore\Inventory-ES\src\main\java\com\hulkstore\service\inventory\facade\InventoryFacade.java
+D:\HulkStore\HulkStore\Inventory-ES\src\main\java\com\hulkstore\service\inventory\entity\Product.java
+D:\HulkStore\HulkStore\Inventory-ES\src\main\java\com\hulkstore\service\inventory\ejb\InventoryEjb.java
+D:\HulkStore\HulkStore\Inventory-ES\src\main\java\com\hulkstore\service\inventory\etl\InventoryTransform.java
+D:\HulkStore\HulkStore\Inventory-ES\src\main\java\com\hulkstore\service\inventory\dto\InventoryRequest.java
+D:\HulkStore\HulkStore\Inventory-ES\src\main\java\com\hulkstore\service\inventory\dao\InventoryDao.java
+D:\HulkStore\HulkStore\Inventory-ES\src\main\java\com\hulkstore\service\inventory\dto\InventoryResponse.java
+D:\HulkStore\HulkStore\Inventory-ES\src\main\java\com\hulkstore\service\inventory\entity\Inventory.java
+D:\HulkStore\HulkStore\Inventory-ES\src\main\java\com\hulkstore\service\inventory\rs\InventoryRs.java
